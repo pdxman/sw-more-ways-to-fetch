@@ -1,4 +1,4 @@
-# practicing more ways to consume API information with react and the SW API
+# Practicing more ways to consume API information with react and the SW API
 
 ## Learned
 
